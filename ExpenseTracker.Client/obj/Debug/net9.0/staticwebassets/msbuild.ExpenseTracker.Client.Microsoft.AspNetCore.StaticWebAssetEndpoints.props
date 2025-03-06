@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ExpenseTracker.Client.h76tlurkmv.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 01:51:33 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 21:22:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ExpenseTracker.Client/ExpenseTracker.Client.h76tlurkmv.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\ExpenseTracker.Client.h76tlurkmv.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h76tlurkmv"},{"Name":"integrity","Value":"sha256-reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc="},{"Name":"label","Value":"_content/ExpenseTracker.Client/ExpenseTracker.Client.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 01:51:33 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1139"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022reHDs3/dXld7d2Y82PT/\u002BI4fB0yk0a6BssGPXYSlfBc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 21:22:55 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/ExpenseTracker.Client/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>

@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ExpenseTracker.Client"
+    ""
   ],
-  "SelectedNode": "\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
+  "SelectedNode": "\\ExpenseTracker.Client",
   "PreviewInSolutionExplorer": false
 }

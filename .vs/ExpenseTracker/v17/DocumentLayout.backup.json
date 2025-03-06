@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker.Client\\ExpenseTracker.Client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.dataaccess\\migrations\\20250306212321_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|solutionrelative:expensetracker.dataaccess\\migrations\\20250306212321_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.dataaccess\\data\\etdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|solutionrelative:expensetracker.dataaccess\\data\\etdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.entities\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|solutionrelative:expensetracker.entities\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.entities\\models\\transactionof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|solutionrelative:expensetracker.entities\\models\\transactionof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|solutionrelative:expensetracker.entities\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.entities\\expensetracker.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23962E35-74A3-4239-A3D6-4B013EF322D9}|ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj|solutionrelative:expensetracker.entities\\expensetracker.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.dataaccess\\expensetracker.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|solutionrelative:expensetracker.dataaccess\\expensetracker.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C19DB96-6162-4B18-B0EF-FEB1702ABC19}|ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj|solutionrelative:expensetracker.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|d:\\projects\\expense tracker application mvc\\myexpensetrackerapplication\\expensetracker\\expensetracker.client\\expensetracker.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66345B5A-79D3-40BA-B0E2-952DF9A05A0F}|ExpenseTracker.Client\\ExpenseTracker.Client.csproj|solutionrelative:expensetracker.client\\expensetracker.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +83,197 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExpenseTracker.Client.csproj",
-              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
-              "RelativeDocumentMoniker": "ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
-              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
-              "RelativeToolTip": "ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T01:49:08.335Z",
+              "Title": "20250306212321_init.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Migrations\\20250306212321_init.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.DataAccess\\Migrations\\20250306212321_init.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Migrations\\20250306212321_init.cs",
+              "RelativeToolTip": "ExpenseTracker.DataAccess\\Migrations\\20250306212321_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:23:23.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpenseTracker.Client\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:25:41.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EtDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Data\\EtDbContext.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.DataAccess\\Data\\EtDbContext.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Data\\EtDbContext.cs",
+              "RelativeToolTip": "ExpenseTracker.DataAccess\\Data\\EtDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T02:09:28.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\appsettings.json",
+              "RelativeToolTip": "ExpenseTracker.Client\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T08:57:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionOf.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Models\\TransactionOf.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Entities\\Models\\TransactionOf.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Models\\TransactionOf.cs",
+              "RelativeToolTip": "ExpenseTracker.Entities\\Models\\TransactionOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:19:01.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Entities\\Models\\Category.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Models\\Category.cs",
+              "RelativeToolTip": "ExpenseTracker.Entities\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:07:20.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Entities\\Interface\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\Interface\\IRepository.cs",
+              "RelativeToolTip": "ExpenseTracker.Entities\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T16:38:36.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExpenseTracker.Client\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:05:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\Program.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Program.cs",
+              "RelativeToolTip": "ExpenseTracker.Client\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:01:34.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExpenseTracker.Entities.csproj",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+              "RelativeToolTip": "ExpenseTracker.Entities\\ExpenseTracker.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T02:00:59.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "ExpenseTracker.DataAccess.csproj",
               "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj",
               "RelativeDocumentMoniker": "ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj",
               "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj",
               "RelativeToolTip": "ExpenseTracker.DataAccess\\ExpenseTracker.DataAccess.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T01:46:12.987Z"
+              "WhenOpened": "2025-03-05T01:46:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ExpenseTracker.Client\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T20:47:45.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "ExpenseTracker.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwBwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:14:22.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExpenseTracker.Client\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:37:36.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpenseTracker.Client.csproj",
+              "DocumentMoniker": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
+              "RelativeDocumentMoniker": "ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
+              "ToolTip": "D:\\Projects\\Expense Tracker Application MVC\\MyExpenseTrackerApplication\\ExpenseTracker\\ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
+              "RelativeToolTip": "ExpenseTracker.Client\\ExpenseTracker.Client.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAApwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T01:49:08.335Z",
+              "EditorCaption": ""
             }
           ]
         }
